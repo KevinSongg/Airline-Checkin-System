@@ -1,6 +1,4 @@
-V00927475
-A01
-Kunlun Song
+
 
 Instructions to run the airline check in system
 
