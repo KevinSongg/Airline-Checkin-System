@@ -1,5 +1,3 @@
-
-
 Instructions to run the airline check in system
 
 1. Put all files in the same folder
