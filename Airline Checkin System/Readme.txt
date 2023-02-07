@@ -29,4 +29,3 @@ Here is an example:
 7:0,10,30
 8:0,11,50
 
-Note: When the queue reaches greater than 2, the customer id will print the front of the linked list instead of the back. Thus, this will result in the same customer id to be printed over and over as if the same customer is being ran again and again. For example, if the linked list has customers 4,3,2,1 and 1 is the first in the queue, it will continuously print 4 even though 1 will be removed.This is just a UI bug and it will actually run the right customer until linkedlist is empty. I have tried to fix this problem but ran into a bunch of segmentation faults so I left it as a UI bug for now.
